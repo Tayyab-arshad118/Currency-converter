@@ -24,6 +24,11 @@ It fetches real-time exchange rates from the [ExchangeRate-API](https://www.exch
 5. Click **Get Exchange Rate** to see the converted amount.
 
 ---
+## 📸 Preview
+
+![Screenshot of the game](Screenshot 2025-06-15 020510.png)
+
+---
 
 ## Technologies Used
 
