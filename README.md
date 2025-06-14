@@ -26,7 +26,7 @@ It fetches real-time exchange rates from the [ExchangeRate-API](https://www.exch
 ---
 ## 📸 Preview
 
-![Screenshot of the game](Screenshot 2025-06-15 020510.png)
+![Screenshot of the Page](./Screenshot 2025-06-15 020510.png)
 
 ---
 
