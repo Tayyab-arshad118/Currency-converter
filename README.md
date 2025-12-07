@@ -15,6 +15,14 @@ It fetches real-time exchange rates from the [ExchangeRate-API](https://www.exch
 
 ---
 
+
+## Try Now
+
+.[Live Demo](https://currency-converter-by-ta.netlify.app/)
+
+
+---
+
 ## How to Use
 
 1. Clone or download this repository.
